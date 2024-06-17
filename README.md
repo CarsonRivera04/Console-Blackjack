@@ -21,13 +21,13 @@ Console-based C++ blackjack game with ASCII cards.
 git clone https://github.com/CarsonRivera04/Console-Blackjack.git
 ```
 
-2. Compile program\n
+2. Compile program  
 Example (Mac/Linux)
 ```bash
 g++ cards.cpp blackjack.cpp -o blackjack
 ```
 
-3. Run program\n
+3. Run program  
 Example (Mac/Linux)
 ```bash
 ./blackjack
